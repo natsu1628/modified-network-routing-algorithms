@@ -1,0 +1,121 @@
+Dense Graph - 
+G1
+Enter number of nodes: 5000
+Enter degree of nodes: 1000
+Started...
+Time taken to generate graph of 5000 nodes: 57.02089 seconds
+Average degree: 1093.166
+Number of edges: 2732915
+Vertex length: 5000
+Source Node: 98, Target Node: 2884
+Dijkstra: Time taken to execute Max BW without heap: 4.165798 seconds
+Maximum BW: 100
+Path: 
+98->796->740->206->104->162->11->259->233->100->190->4->3->153->254->5->103->158->90->2884
+Dijkstra: Time taken to execute Max BW with heap: 0.144669 seconds
+Maximum BW: 100
+Path: 
+98->2052->1022->4764->305->4647->1127->1223->2025->3572->1469->1698->2884
+Kruskal: Time taken to execute Max BW with heapsort: 152.528299 seconds
+Maximum BW: 100
+Path: 
+98->3257->0->1184->3693->2870->2851->3093->1137->3777->1154->3120->2774->3431->2834->2824->4787->2808->3591->2779->4679->1142->3081->2866->3253->2852->2890->4731->2884
+
+Process finished with exit code 0
+
+G2
+Enter number of nodes: 5000
+Enter degree of nodes: 1000
+Started...
+Time taken to generate graph of 5000 nodes: 54.398086 seconds
+Average degree: 1093.0036
+Number of edges: 2732509
+Vertex length: 5000
+Source Node: 2629, Target Node: 3110
+Dijkstra: Time taken to execute Max BW without heap: 4.359984 seconds
+Maximum BW: 100
+Path: 
+2629->140->442->122->316->279->173->125->139->165->65->95->198->226->73->17->204->236->116->277->12->209->33->276->29->227->199->205->244->34->261->300->137->220->111->112->3110
+Dijkstra: Time taken to execute Max BW with heap: 1.151614 seconds
+Maximum BW: 100
+Path: 
+2629->1404->1388->1618->1310->1306->1399->2720->919->713->1506->3110
+Kruskal: Time taken to execute Max BW with heapsort: 149.572857 seconds
+Maximum BW: 100
+Path: 
+2629->140->1213->1174->3824->524->1658->249->2818->2867->2786->4815->520->2767->3206->2800->3741->1145->4081->2806->2804->3110
+
+Process finished with exit code 0
+
+G3
+Enter number of nodes: 5000
+Enter degree of nodes: 1000
+Started...
+Time taken to generate graph of 5000 nodes: 51.252055 seconds
+Average degree: 1093.1732
+Number of edges: 2732933
+Vertex length: 5000
+Source Node: 1004, Target Node: 2066
+Dijkstra: Time taken to execute Max BW without heap: 2.791808 seconds
+Maximum BW: 100
+Path: 
+1004->321->175->151->95->289->4->0->315->1->235->21->2066
+Dijkstra: Time taken to execute Max BW with heap: 2.61998 seconds
+Maximum BW: 100
+Path: 
+1004->321->3199->1818->1601->2483->4637->1864->1331->2542->1830->2457->694->2566->2734->1180->3284->2603->2259->3338->2661->2364->3361->1826->2066
+Kruskal: Time taken to execute Max BW with heapsort: 146.119634 seconds
+Maximum BW: 100
+Path: 
+1004->613->128->543->684->259->2586->248->1838->257->255->60->3451->1148->2946->2836->2808->253->3237->2831->3792->1170->4867->2848->3160->2816->2877->2880->2912->3957->540->578->261->1533->2066
+
+Process finished with exit code 0
+
+G4
+Enter number of nodes: 5000
+Enter degree of nodes: 1000
+Started...
+Time taken to generate graph of 5000 nodes: 51.74462 seconds
+Average degree: 1093.0644
+Number of edges: 2732661
+Vertex length: 5000
+Source Node: 3604, Target Node: 2694
+Dijkstra: Time taken to execute Max BW without heap: 3.576019 seconds
+Maximum BW: 100
+Path: 
+3604->326->167->9->115->346->50->119->15->239->203->233->70->10->356->154->74->417->2694
+Dijkstra: Time taken to execute Max BW with heap: 0.125363 seconds
+Maximum BW: 100
+Path: 
+3604->3172->985->1467->1784->1794->2363->1546->2253->1641->1749->1042->1832->4306->4663->2694
+Kruskal: Time taken to execute Max BW with heapsort: 145.85563 seconds
+Maximum BW: 100
+Path: 
+3604->3076->4555->2839->3253->2817->2838->2766->4491->122->2792->4959->251->2911->1152->3647->1153->4865->2798->2785->3755->2771->2770->3732->2814->2788->3794->1145->1146->4167->2813->1149->1507->1154->3308->536->2694
+
+Process finished with exit code 0
+
+G5
+Enter number of nodes: 5000
+Enter degree of nodes: 1000
+Started...
+Time taken to generate graph of 5000 nodes: 51.852853 seconds
+Average degree: 1093.0388
+Number of edges: 2732597
+Vertex length: 5000
+Source Node: 239, Target Node: 4410
+Dijkstra: Time taken to execute Max BW without heap: 5.710214 seconds
+Maximum BW: 100
+Path: 
+239->244->259->36->241->296->131->26->46->247->330->38->4410
+Dijkstra: Time taken to execute Max BW with heap: 1.402302 seconds
+Maximum BW: 100
+Path: 
+239->1872->1576->2343->1512->1824->1626->1430->1591->2630->1962->509->505->1614->1482->2313->2164->942->4994->4959->4410
+Kruskal: Time taken to execute Max BW with heapsort: 141.587423 seconds
+Maximum BW: 100
+Path: 
+239->70->4097->2823->3500->2939->3493->2781->3665->2833->2835->2814->3538->2818->3383->2796->2887->2809->60->123->4446->2827->3470->2799->3414->2813->4912->2884->3137->4410
+
+Process finished with exit code 0
+
